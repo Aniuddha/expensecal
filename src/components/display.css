@@ -1,0 +1,7 @@
+.scrolling-wrapper {
+    overflow-x: hidden;
+    overflow-y: scroll;
+    white-space: nowrap;
+    height: 300px ;
+    
+}
